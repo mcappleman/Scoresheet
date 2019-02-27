@@ -21,13 +21,12 @@ for index, row in df.iterrows():
     base_url = "https://www.baseball-reference.com/players"
     ending = "/" + id[0] + "/" + id + ".shtml"
     player_page = requests.get(base_url + ending)
-    player_page.json()
-    print(player_page)
-    bats = re.match("Bats:(\?<BATS>.*)\s", player_page.body)
-    print(bats)
-    if bats is not None:
-        bats_text = bats.group('BATS')
-        print(row['Name'] + ": " + bats_text)
+    bats_text = ""
+    regex = r"Bats:.*strong>(?P<BATS>.*)\s"
+    matches = re.finditer(regex, player_page.text, re.MULTILINE)
+    for match_num, match in enumerate(matches, start=1):
+        bats_text = match.group('BATS')
+    print(bats_text)
     # driver.get(base_url + ending)
     # elem = driver.find_element_by_xpath('//*[@id="meta"]/div[2]/p[2]')
     # print(elem.text)
