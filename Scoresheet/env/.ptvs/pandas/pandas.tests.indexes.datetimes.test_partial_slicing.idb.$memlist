@@ -1,0 +1,15 @@
+datetime
+pd
+DataFrame
+IndexingError
+tm
+Timedelta
+op
+np
+Index
+DatetimeIndex
+date_range
+pytest
+Timestamp
+TestSlicing
+Series

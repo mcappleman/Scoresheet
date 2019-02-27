@@ -1,0 +1,12 @@
+test_libfrequencies
+test_conversion
+test_timedeltas
+test_ccalendar
+test_period_asfreq
+test_api
+test_liboffsets
+test_normalize_date
+test_array_to_datetime
+test_timezones
+test_parsing
+test_parse_iso8601

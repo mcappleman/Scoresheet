@@ -1,0 +1,6 @@
+pd
+io
+pytest
+BaseExtensionTests
+compat
+BasePrintingTests

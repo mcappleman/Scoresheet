@@ -1,0 +1,16 @@
+test_str_uses_object
+np
+test_construct_from_string_raises
+test_is_numeric
+test_from_sparse_dtype_fill_value
+test_inferred_dtype
+test_nans_equal
+test_update_dtype
+pd
+test_from_sparse_dtype
+test_parse_subtype
+test_equal
+SparseDtype
+test_construct_from_string
+test_construct_from_string_fill_value_raises
+pytest

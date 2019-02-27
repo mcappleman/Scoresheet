@@ -1,0 +1,4 @@
+allow_in_pandas
+np
+pytest
+PandasArray

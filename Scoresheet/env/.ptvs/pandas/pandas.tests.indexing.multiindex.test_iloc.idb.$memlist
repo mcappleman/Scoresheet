@@ -1,0 +1,17 @@
+np
+test_getitem_iloc
+test_iloc_returns_series
+DataFrame
+test_indexing_ambiguity_bug_1678
+MultiIndex
+test_iloc_returns_scalar
+Series
+test_iloc_returns_dataframe
+tm
+test_frame_getitem_slice
+test_iloc_setitem_int_multiindex_series
+test_iloc_integer_locations
+test_iloc_getitem_labels
+test_iloc_getitem_multiple_items
+pytest
+test_frame_setitem_slice

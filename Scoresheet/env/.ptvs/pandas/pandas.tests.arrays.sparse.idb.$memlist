@@ -1,0 +1,4 @@
+test_arithmetics
+test_libsparse
+test_array
+test_dtype

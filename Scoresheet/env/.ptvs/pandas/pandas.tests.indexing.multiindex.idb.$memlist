@@ -1,0 +1,16 @@
+test_iloc
+test_loc
+test_set_ops
+test_indexing_slow
+test_sorted
+test_getitem
+conftest
+test_ix
+test_setitem
+test_datetime
+test_multiindex
+test_slice
+test_xs
+test_chaining_and_caching
+test_partial
+test_panel

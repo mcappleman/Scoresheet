@@ -1,0 +1,15 @@
+test_unary_op
+pd
+test_binary_ufuncs
+operator
+test_with_list
+test_invert
+np
+TestSparseArrayArithmetics
+test_ufuncs
+test_sparray_inplace
+tm
+pytest
+TestSparseSeriesArithmetic
+test_ndarray_inplace
+SparseDtype

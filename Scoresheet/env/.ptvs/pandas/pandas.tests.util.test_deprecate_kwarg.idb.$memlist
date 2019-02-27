@@ -1,0 +1,12 @@
+deprecate_kwarg
+tm
+test_bad_deprecate_kwarg
+_f3
+_f4
+_f3_mapping
+_f1
+_f2_mappings
+_f2
+test_dict_deprecate_kwarg
+pytest
+test_callable_deprecate_kwarg_fail

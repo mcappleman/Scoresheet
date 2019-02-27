@@ -1,0 +1,13 @@
+Series
+u
+timedelta_range
+PY3
+TestCategoricalRepr
+Categorical
+np
+TestCategoricalReprWithFactor
+CategoricalIndex
+TestCategorical
+date_range
+option_context
+period_range

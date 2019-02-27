@@ -1,0 +1,13 @@
+lrange
+Series
+DataFrame
+test_detect_chained_assignment
+tm
+test_indexer_caching
+np
+test_cache_updating
+range
+com
+pytest
+lzip
+MultiIndex
