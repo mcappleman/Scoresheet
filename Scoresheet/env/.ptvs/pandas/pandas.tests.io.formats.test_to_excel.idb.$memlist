@@ -1,9 +1,0 @@
-test_css_to_excel_good_colors
-CSSWarning
-tm
-CSSToExcelConverter
-test_css_to_excel_multiple
-test_css_to_excel_bad_colors
-test_css_to_excel_inherited
-test_css_to_excel
-pytest

@@ -1,8 +1,0 @@
-pd
-ops
-operator
-BaseArithmeticOpsTests
-BaseComparisonOpsTests
-BaseExtensionTests
-pytest
-BaseOpsUtil

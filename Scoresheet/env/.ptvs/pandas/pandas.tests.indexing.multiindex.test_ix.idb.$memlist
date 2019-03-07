@@ -1,9 +1,0 @@
-lrange
-catch_warnings
-DataFrame
-tm
-simplefilter
-PerformanceWarning
-TestMultiIndexIx
-pytest
-MultiIndex

@@ -1,9 +1,0 @@
-test_pivot
-merge
-test_qcut
-test_union_categoricals
-test_reshape
-test_melt
-test_cut
-test_util
-test_concat

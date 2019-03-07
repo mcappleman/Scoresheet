@@ -1,6 +1,0 @@
-conftest
-test_numeric
-test_timedelta64
-test_datetime64
-test_period
-test_object

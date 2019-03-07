@@ -1,9 +1,0 @@
-test_pivot
-test_combine_concat
-series
-frame
-common
-test_reshape
-test_format
-test_groupby
-test_indexing

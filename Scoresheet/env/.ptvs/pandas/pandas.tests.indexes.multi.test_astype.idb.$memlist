@@ -1,6 +1,0 @@
-test_astype_category
-np
-pytest
-assert_copy
-test_astype
-CategoricalDtype

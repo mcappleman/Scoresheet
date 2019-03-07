@@ -1,9 +1,0 @@
-pd
-tm
-TestSparseDataFrameIndexing
-np
-TestMultitype
-TestSparseSeriesIndexing
-TestSparseSeriesMultiIndexing
-pytest
-SparseDtype

@@ -1,8 +1,0 @@
-test_basic_names_warn
-test_mangled_unnamed_placeholders
-tm
-test_basic
-DataFrame
-StringIO
-pytest
-test_basic_names

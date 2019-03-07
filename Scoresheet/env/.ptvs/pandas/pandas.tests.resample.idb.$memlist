@@ -1,8 +1,0 @@
-test_timedelta
-test_period_index
-test_datetime_index
-conftest
-test_resample_api
-test_resampler_grouper
-test_base
-test_time_grouper

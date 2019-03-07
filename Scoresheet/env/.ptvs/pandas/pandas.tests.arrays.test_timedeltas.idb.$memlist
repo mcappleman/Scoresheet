@@ -1,8 +1,0 @@
-pd
-TestTimedeltaArray
-TestTimedeltaArrayConstructor
-np
-TestReductions
-tm
-TimedeltaArray
-pytest

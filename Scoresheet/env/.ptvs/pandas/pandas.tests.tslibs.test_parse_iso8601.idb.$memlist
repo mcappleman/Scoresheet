@@ -1,6 +1,0 @@
-test_parsers_iso8601_invalid_offset_invalid
-test_parsers_iso8601
-pytest
-test_parsers_iso8601_invalid
-datetime
-tslib

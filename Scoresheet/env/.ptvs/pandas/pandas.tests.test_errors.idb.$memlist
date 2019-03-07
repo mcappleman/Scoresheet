@@ -1,7 +1,0 @@
-pd
-pytest
-Foo
-AbstractMethodError
-test_AbstractMethodError_classmethod
-test_error_rename
-test_catch_oob

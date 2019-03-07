@@ -1,9 +1,0 @@
-test_categorical_equal_ordered_mismatch
-test_categorical_equal_codes_mismatch
-Categorical
-test_categorical_equal_order_mismatch
-test_categorical_equal_categories_mismatch
-test_categorical_equal_object_override
-test_categorical_equal
-pytest
-assert_categorical_equal

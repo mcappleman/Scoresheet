@@ -1,6 +1,0 @@
-test_detect_console_encoding_from_stdout_stdin
-detect_console_encoding
-pytest
-test_detect_console_encoding_fallback_to_default
-MockEncoding
-test_detect_console_encoding_fallback_to_locale

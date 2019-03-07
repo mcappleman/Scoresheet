@@ -1,4 +1,0 @@
-test_cast_1d_array_invalid_scalar
-pytest
-test_cast_1d_array
-construct_1d_object_array_from_listlike

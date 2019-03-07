@@ -1,9 +1,0 @@
-TestIntervalIndex
-pd
-DataFrame
-tm
-np
-Interval
-Series
-IntervalIndex
-pytest

@@ -1,8 +1,0 @@
-tm
-TestUnsupportedFeatures
-parsers
-read_csv
-StringIO
-pytest
-ParserError
-TestDeprecatedFeatures
