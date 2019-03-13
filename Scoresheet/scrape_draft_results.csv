@@ -1,0 +1,691 @@
+id,name,team,position,leagues_taken,num_leagues_taken,available,taken_BL
+1,Corey Kluber,Cle,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+538,Mike Trout,LAA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+535,Mookie Betts,Bos,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+447,Jose Ramirez(Cle),Cle,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+29,Chris Sale,Bos,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+531,J.D. Martinez,Bos,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+472,Francisco Lindor,Cle,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+554,Aaron Judge,NYA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+473,Alex Bregman,Hou,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+421,Jose Altuve,Hou,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+525,Giancarlo Stanton,NYA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+2,Justin Verlander,Hou,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+3,Gerrit Cole,Hou,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+12,Blake Snell,TB,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+7,Carlos Carrasco,Cle,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+529,Andrew Benintendi,Bos,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+9,Luis Severino,NYA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+480,Carlos Correa,Hou,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+27,James Paxton,NYA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+17,Trevor Bauer,Cle,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+450,Matt Chapman,Oak,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+530,Khris Davis,Oak,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+16,David Price,Bos,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+418,Whit Merrifield,KC,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+476,Andrelton Simmons,LAA,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+478,Xander Bogaerts,Bos,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+534,George Springer,Hou,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+4,Mike Clevinger,Cle,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+526,Mitch Haniger,Sea,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+6,Jose Berrios,Min,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+544,Aaron Hicks,NYA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+14,J.A. Happ,NYA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+392,Jose Abreu,ChA,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+479,Gleyber Torres,NYA,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+545,Tommy Pham,TB,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+387,Matt Olson,Oak,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+32,Masahiro Tanaka,NYA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+452,Miguel Andujar,NYA,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+490,Adalberto Mondesi,KC,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+22,Charlie Morton,TB,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+477,Jurickson Profar,Oak,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+537,Justin Upton,LAA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+649,Nelson Cruz,Min,DH,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+527,Nicholas Castellanos,Det,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+345,Gary Sanchez,NYA,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+672,Dallas Keuchel,-,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+471,VladimirJr. Guerrero,Tor,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+541,Eddie Rosario,Min,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+533,Michael Brantley,Hou,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+53,Shane Bieber,Cle,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+339,Salvador Perez,KC,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600', 'wBL601']",7,False,True
+5,Kyle Gibson,Min,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+455,Rafael Devers,Bos,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+54,Tyler Glasnow,TB,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+386,Carlos Santana,Cle,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+8,Rick Porcello,Bos,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+623,Eloy Jimenez,ChA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+422,Dee Gordon,Sea,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+55,Nathan Eovaldi,Bos,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+549,Kevin Pillar,Tor,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+491,Lourdes Gurriel,Tor,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+236,Blake Treinen,Oak,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+543,Joey Gallo,Tex,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+426,Jonathan Villar,Bal,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+207,Yusei Kikuchi,Sea,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+552,Jackie Bradley,Bos,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+564,Jay Bruce,Sea,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+425,Rougned Odor,Tex,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+550,Mallex Smith,Sea,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+45,Eduardo Rodriguez,Bos,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+551,Nomar Mazara,Tex,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+453,Yuli Gurriel,Hou,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+13,Andrew Heaney,LAA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+119,Josh James,Hou,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+23,Marco Gonzales,Sea,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+423,DJ LeMahieu,NYA,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+73,Collin McHugh,Hou,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+360,Welington Castillo,ChA,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+389,Edwin Encarnacion,Sea,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+686,Adam Jones,Ari,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+540,Stephen Piscotty,Oak,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+47,Tyler Skaggs,LAA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+547,Billy Hamilton,KC,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+528,Shin-Soo Choo,Tex,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+563,Kevin Kiermaier,TB,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+664,Asdrubal Cabrera,Tex,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+408,Miguel Cabrera,Det,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+536,Max Kepler,Min,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+407,Luke Voit,NYA,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+483,Elvis Andrus,Tex,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+388,Justin Smoak,Tor,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+41,Brad Keller,KC,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+474,Marcus Semien,Oak,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+586,Ramon Laureano,Oak,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+428,Jonathan Schoop,Min,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+454,Matt Duffy(TB),TB,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600']",6,False,True
+404,Tyler White,Hou,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+204,Jesus Luzardo,Oak,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+419,Yoan Moncada,ChA,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+44,Sonny Gray,Cin,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+343,Mike Zunino,TB,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+650,Shohei Ohtani,LAA,DH,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+557,Randal Grichuk,Tor,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+581,Austin Meadows,TB,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+671,Craig Kimbrel,-,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+400,Jake Bauers,Cle,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+248,Dellin Betances,NYA,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+30,Mike Minor,Tex,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+288,Roberto Osuna,Hou,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+272,Aroldis Chapman,NYA,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+50,Carlos Rodon,ChA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+424,Joey Wendle,TB,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+242,Brad Hand,Cle,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+367,Danny Jansen,Tor,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+15,Jakob Junis,KC,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+19,Mike Fiers,Oak,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+263,Jose Leclerc,Tex,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+224,Forrest Whitley,Hou,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600', 'wBL601']",7,False,True
+458,Miguel Sano,Min,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600', 'wBL601']",7,False,True
+82,Diego Castillo,TB,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+390,Yonder Alonso,ChA,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+347,Omar Narvaez,Sea,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+238,Chad Green,NYA,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+42,Michael Fulmer,Det,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+574,Jorge Soler,KC,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+341,Jonathan Lucroy,LAA,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+20,Dylan Bundy,Bal,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+679,Marwin Gonzalez,Min,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+36,CC Sabathia,NYA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+449,Kyle Seager,Sea,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+532,Trey Mancini,Bal,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+254,Jose Alvarado,TB,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+59,Marcus Stroman,Tor,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+595,Byron Buxton,Min,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+244,Ryan Pressly,Hou,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+46,Jaime Barria,LAA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+475,Tim Anderson,ChA,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+10,Reynaldo Lopez,ChA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+21,Matthew Boyd,Det,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+234,Yusmeiro Petit,Oak,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600', 'wBL601']",7,False,True
+25,Wade LeBlanc,Sea,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+26,Ivan Nova,ChA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+77,Ryne Stanek,TB,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600', 'wBL601']",7,False,True
+38,Alex Cobb,Bal,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+440,Dustin Pedroia,Bos,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+11,Mike Leake,Sea,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+665,Adam Ottavino,NYA,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+566,Leonys Martin,Cle,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+344,Isiah Kiner-Falefa,Tex,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+35,Matt Harvey,LAA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+250,Brad Peacock,Hou,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+582,Cedric Mullins,Bal,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL605', 'wBL600', 'wBL601']",7,False,True
+258,Matt Barnes,Bos,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+52,Daniel Mengden,Oak,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+245,Taylor Rogers,Min,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+247,Alex Colome,ChA,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+274,Ken Giles,Tor,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600', 'wBL601']",7,False,True
+57,Aaron Sanchez,Tor,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+40,Ryan Yarbrough,TB,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+249,Blake Parker,Min,SR,"['wAL600', 'wAL601', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",6,False,True
+427,Eduardo Nunez,Bos,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+488,Jorge Polanco,Min,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+240,Lou Trivino,Oak,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+34,Danny Duffy,KC,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+237,Mychal Givens,Bal,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+148,Michael Pineda,Min,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+391,C.J. Cron,Min,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+31,Lance Lynn,Tex,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+293,Ryan Brasier,Bos,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+56,Trevor Cahill,LAA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+487,DanielRay Robertson(TB),TB,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+62,Ryan Borucki,Tor,P,"['wAL600', 'wAL601', 'wAL603', 'wAL604', 'wBL600']",5,False,True
+285,Zach Britton,NYA,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+81,Frankie Montas,Oak,P,"['wAL600', 'wAL601', 'wAL603', 'wAL604']",4,True,False
+555,Josh Reddick,Hou,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+18,Lucas Giolito,ChA,P,"['wAL600', 'wAL601', 'wAL602', 'wBL600']",4,False,True
+259,Joakim Soria,Oak,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+64,Yonny Chirinos,TB,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL605', 'wBL600']",6,False,True
+659,Cody Allen,LAA,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605']",6,True,False
+294,Richard Bleier,Bal,SR,"['wAL600', 'wAL603', 'wAL604', 'wAL605']",4,True,False
+561,Avisail Garcia,TB,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+577,Domingo Santana,Sea,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+261,Hector Rondon,Hou,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wBL600']",5,False,True
+342,Robinson Chirinos,Hou,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+397,Kendrys Morales,Tor,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+265,Will Harris(Hou),Hou,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600', 'wBL601']",7,False,True
+451,Jeimer Candelario,Det,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+398,Mitch Moreland,Bos,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+399,Ronald Guzman,Tex,1B,"['wAL600', 'wAL601', 'wAL603', 'wBL600', 'wBL601']",5,False,True
+346,Mitch Garver,Min,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+351,Christian Vazquez,Bos,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wBL600']",5,False,True
+489,Willy Adames,TB,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+363,Grayson Greiner,Det,C,"['wAL600', 'wAL601', 'wAL602', 'wBL600']",4,False,True
+770,Nick Hundley,Oak,C,"['wAL600', 'wAL604']",2,True,False
+492,Zack Cozart,LAA,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+352,Austin Romine,NYA,C,"['wAL600', 'wAL601', 'wAL603', 'wBL600']",4,False,True
+273,Jace Fry,ChA,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600']",6,False,True
+340,James McCann,ChA,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wBL600']",5,False,True
+504,Troy Tulowitzki,NYA,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wBL600']",5,False,True
+286,Ryan Buchter,Oak,SR,"['wAL600', 'wAL601', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",6,False,True
+366,Willians Astudillo,Min,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+539,Brett Gardner,NYA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600', 'wBL601']",7,False,True
+396,Albert Pujols,LAA,1B,"['wAL600', 'wAL601', 'wAL602', 'wBL601']",4,True,True
+548,Kole Calhoun,LAA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+314,Ty Buttrey,LAA,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603']",4,True,False
+420,Jason Kipnis,Cle,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+80,Jake Faria,TB,P,['wAL600'],1,True,False
+448,Yolmer Sanchez,ChA,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600']",6,False,True
+280,Kelvin Herrera,ChA,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+24,Jake Odorizzi,Min,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+553,Teoscar Hernandez,Tor,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+714,Ervin Santana,ChA,P,['wAL600'],1,True,False
+43,Jordan Zimmermann,Det,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605']",6,True,False
+276,Chris Devenski,Hou,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600']",6,False,True
+63,Felix Pena,LAA,P,"['wAL600', 'wAL603', 'wAL604', 'wBL600']",4,False,True
+559,Daniel Palka,ChA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL601']",7,True,True
+692,Wade Miley,Hou,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+233,Jesse Chavez,Tex,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600']",6,False,True
+301,Trevor May,Min,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+569,Jake Cave,Min,OF,"['wAL600', 'wAL601', 'wAL602']",3,True,False
+246,Adam Cimber,Cle,SR,"['wAL600', 'wAL601', 'wAL603', 'wAL604']",4,True,False
+658,Didi(hurt) Gregorius,NYA,SS,"['wAL600', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",6,False,True
+673,Freddy Galvis,Tor,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600']",6,False,True
+395,Justin Bour,LAA,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600', 'wBL601']",7,False,True
+252,Fernando Rodney,Oak,SR,"['wAL600', 'wAL602']",2,True,False
+776,Robbie Grossman,Oak,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL605', 'wBL600']",6,False,True
+429,Niko Goodrum,Det,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+669,Hunter Strickland,Sea,SR,['wAL600'],1,True,False
+461,Yandy Diaz,TB,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+256,Joe Jimenez,Det,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600']",6,False,True
+275,Chaz Roe,TB,SR,"['wAL600', 'wAL601', 'wAL603']",3,True,False
+348,John Hicks,Det,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600']",6,False,True
+546,Alex Gordon,KC,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL605', 'wBL600']",6,False,True
+359,Chance Sisco,Bal,C,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wBL600', 'wBL601']",6,False,True
+260,Heath Hembree,Bos,SR,['wAL600'],1,True,False
+481,Aledmys Diaz,Hou,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603']",4,True,False
+462,Brandon Drury,Tor,3B,"['wAL600', 'wAL601', 'wAL602']",3,True,False
+565,Mark Trumbo,Bal,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL605', 'wBL600']",6,False,True
+255,Shane Greene,Det,SR,"['wAL600', 'wAL601', 'wAL602']",3,True,False
+365,Josh Phegley,Oak,C,['wAL600'],1,True,False
+403,Steve Pearce,Bos,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL605', 'wBL600', 'wBL601']",7,False,True
+371,Jason Castro,Min,C,"['wAL600', 'wAL603']",2,True,False
+253,Cam Bedrosian,LAA,SR,"['wAL600', 'wAL604', 'wBL600']",3,False,True
+482,Jordy Mercer,Det,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604']",5,True,False
+406,Ryan O'Hearn,KC,1B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+431,Chad Pinder,Oak,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+279,Tim Hill,KC,SR,['wAL600'],1,True,False
+432,David Fletcher,LAA,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wBL600']",6,False,True
+667,Oliver Perez,Cle,SR,"['wAL600', 'wAL604', 'wBL600', 'wBL601']",4,False,True
+485,Brock Holt,Bos,SS,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+251,Ryan Tepera,Tor,SR,"['wAL600', 'wAL601', 'wAL602']",3,True,False
+799,Josh Harrison,Det,2B,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600']",7,False,True
+357,Roberto Perez,Cle,C,"['wAL600', 'wAL602']",2,True,False
+405,Ji-Man Choi,TB,1B,"['wAL600', 'wAL602', 'wAL603', 'wAL605', 'wBL600']",5,False,True
+484,Tim Beckham,Sea,SS,"['wAL600', 'wAL602', 'wAL603']",3,True,False
+61,Brian Johnson,Bos,P,"['wAL600', 'wAL601', 'wAL602']",3,True,False
+777,Brett Anderson,Oak,P,"['wAL600', 'wAL601']",2,True,False
+675,Martin Perez,Min,P,"['wAL600', 'wAL602', 'wBL600']",3,False,True
+715,Evan Gattis,-,DH,['wAL600'],1,True,False
+434,Brandon Lowe,TB,2B,"['wAL600', 'wAL605', 'wBL600', 'wBL601']",4,False,True
+66,Blaine Hardy,Det,P,"['wAL600', 'wAL602', 'wAL604', 'wBL600']",4,False,True
+598,Kyle Tucker,Hou,OF,"['wAL600', 'wAL602', 'wBL600', 'wBL601']",4,False,True
+437,Franklin Barreto,Oak,2B,"['wAL600', 'wAL601', 'wAL604']",3,True,False
+588,Billy McKinney,Tor,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603']",4,True,False
+89,Roenis Elias,Sea,P,"['wAL600', 'wAL601', 'wAL602', 'wAL604']",4,True,False
+110,Matt Shoemaker,Tor,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603']",4,True,False
+262,Dan Otero,Cle,SR,"['wAL600', 'wAL601', 'wAL603']",3,True,False
+709,Brad Boxberger,KC,SR,['wAL600'],1,True,False
+542,Jon Jay,ChA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+459,Renato Nunez,Bal,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL604', 'wAL605']",5,True,False
+4049,Clay Buchholz,Tor,P,"['wAL600', 'wAL601', 'wAL603']",3,True,False
+243,Kevin McCarthy,KC,SR,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wBL600']",5,False,True
+33,Felix Hernandez,Sea,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wBL601']",5,True,True
+456,Hunter Dozier,KC,3B,"['wAL600', 'wAL601', 'wAL602', 'wAL604']",4,True,False
+67,Domingo German,NYA,P,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605', 'wBL600', 'wBL601']",8,False,True
+558,Adam Engel,ChA,OF,"['wAL600', 'wAL601', 'wAL602', 'wAL603', 'wAL605']",5,True,False
+778,Jake Diekman,KC,SR,['wAL600'],1,True,False
+393,Ryon Healy,Sea,1B,"['wAL601', 'wAL602', 'wBL600']",3,False,True
+291,Wily Peralta,KC,SR,"['wAL601', 'wBL600']",2,False,True
+560,Mark Canha,Oak,OF,"['wAL601', 'wAL602', 'wAL603', 'wAL605', 'wBL600']",5,False,True
+571,Greg Allen,Cle,OF,"['wAL601', 'wAL602', 'wAL603', 'wBL600']",4,False,True
+599,Christin Stewart(Det),Det,OF,"['wAL601', 'wAL602', 'wAL603', 'wBL600']",4,False,True
+92,Chris Bassitt,Oak,P,['wAL601'],1,True,False
+296,Nate Jones,ChA,SR,"['wAL601', 'wAL602', 'wAL604']",3,True,False
+145,Justus Sheffield,Sea,P,"['wAL601', 'wAL602', 'wAL604', 'wAL605']",4,True,False
+349,Sandy Leon,Bos,C,"['wAL601', 'wAL602']",2,True,False
+39,Tyson Ross,Det,P,"['wAL601', 'wAL602', 'wAL605', 'wBL600']",4,False,True
+117,Jonathan Loaisiga,NYA,P,"['wAL601', 'wAL603', 'wAL604']",3,True,False
+356,Blake Swihart,Bos,C,"['wAL601', 'wAL602']",2,True,False
+98,Hunter Wood,TB,P,['wAL601'],1,True,False
+788,Dan Jennings,LAA,SR,['wAL601'],1,True,False
+430,Devon Travis,Tor,2B,"['wAL601', 'wAL604']",2,True,False
+433,Tommy LaStella,LAA,2B,['wAL601'],1,True,False
+140,David Paulino,Tor,P,"['wAL601', 'wBL600']",2,False,True
+562,Delino DeShields,Tex,OF,"['wAL601', 'wAL602', 'wAL603', 'wAL604']",4,True,False
+51,Ian Kennedy,KC,P,"['wAL601', 'wBL600']",2,False,True
+353,Max Stassi,Hou,C,"['wAL601', 'wAL603']",2,True,False
+150,Drew Smyly,Tex,P,"['wAL601', 'wAL602', 'wAL603', 'wAL604', 'wAL605']",5,True,False
+668,Marco Estrada,Oak,P,"['wAL601', 'wAL603', 'wAL605', 'wBL600']",4,False,True
+410,Rowdy Tellez,Tor,1B,['wAL601'],1,True,False
+37,Andrew Cashner,Bal,P,['wAL601'],1,True,False
+370,Michael Perez,TB,C,"['wAL602', 'wAL605']",2,True,False
+149,Danny(hurt) Salazar,Cle,P,"['wAL602', 'wBL600']",2,False,True
+716,Jose Iglesias,Cin,SS,['wAL602'],1,True,False
+401,Greg Bird,NYA,1B,"['wAL602', 'wAL604', 'wBL601']",3,True,True
+94,Daniel Norris,Det,P,['wAL602'],1,True,False
+78,Jonathan Holder,NYA,P,"['wAL602', 'wAL603', 'wBL600']",3,False,True
+120,Adalberto Mejia,Min,P,['wAL602'],1,True,False
+202,AJ Puk,Oak,P,['wAL602'],1,True,False
+58,David Hess,Bal,P,['wAL602'],1,True,False
+28,Clayton Richard,Tor,P,['wAL602'],1,True,False
+118,Liam Hendriks,Oak,P,['wAL602'],1,True,False
+457,Chris Owings,KC,3B,"['wAL602', 'wAL603', 'wAL604', 'wBL600']",4,False,True
+172,Dylan Cease,ChA,P,['wAL602'],1,True,False
+105,Taylor Cole,LAA,P,['wAL602'],1,True,False
+707,Hunter Pence,Tex,OF,['wAL602'],1,True,False
+676,Matt Davidson,Tex,1B,['wAL602'],1,True,False
+49,Dylan Covey,ChA,P,['wAL602'],1,True,False
+592,Anthony Santander,Bal,OF,['wAL602'],1,True,False
+521,Bo Bichette,Tor,SS,"['wAL603', 'wBL601']",2,True,True
+102,Framber Valdez,Hou,P,"['wAL603', 'wAL605', 'wBL600']",3,False,True
+603,Clint Frazier,NYA,OF,"['wAL603', 'wBL600']",2,False,True
+700,Martin Maldonado,-,C,"['wAL603', 'wAL604', 'wAL605']",3,True,False
+304,Tommy Kahnle,NYA,SR,"['wAL603', 'wAL604']",2,True,False
+494,J.P. Crawford,Sea,SS,"['wAL603', 'wAL604']",2,True,False
+674,Shawn Kelley,Tex,SR,"['wAL603', 'wAL604']",2,True,False
+147,Edinson Volquez,Tex,P,['wAL603'],1,True,False
+573,Jorge Bonifacio,KC,OF,['wAL603'],1,True,False
+93,Luis Cessa,NYA,P,"['wAL603', 'wAL604']",2,True,False
+297,Victor Alcantara,Det,SR,['wAL603'],1,True,False
+283,Brandon Workman,Bos,SR,"['wAL603', 'wAL604']",2,True,False
+614,Austin Hays,Bal,OF,"['wAL603', 'wBL601']",2,True,True
+358,Kevan Smith,LAA,C,['wAL604'],1,True,False
+90,Jalen Beeks,TB,P,['wAL604'],1,True,False
+270,Chasen Bradford,Sea,SR,['wAL604'],1,True,False
+372,Cameron Gallagher,KC,C,['wAL604'],1,True,False
+660,Colin Poche,TB,SR,"['wAL604', 'wBL600']",2,False,True
+486,Ehire Adrianza,Min,SS,['wAL604'],1,True,False
+97,Andrew Triggs,Oak,P,['wAL604'],1,True,False
+570,Tony Kemp,Hou,OF,['wAL605'],1,True,False
+1459,Nolan Arenado,Col,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1001,Max Scherzer,Was,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1002,Jacob deGrom,NYN,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1427,Ozzie Albies,Atl,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1560,Christian Yelich,Mil,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1501,Trevor Story,Col,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1502,Javier Baez,ChN,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1003,Aaron Nola,Phi,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1405,Freddie Freeman,Atl,1B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1406,Paul Goldschmidt,StL,1B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1672,Manny Machado,SD,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1673,Bryce Harper,Phi,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1577,Ronald Acuna,Atl,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1576,Juan Soto,Was,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1469,Kris Bryant,ChN,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1408,Anthony Rizzo,ChN,1B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1030,Clayton Kershaw,LAD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1499,Trea Turner,Was,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1461,Anthony Rendon,Was,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1046,Walker Buehler,LAD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1220,Kenley Jansen,LAD,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1556,Charlie Blackmon,Col,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1033,Noah Syndergaard,NYN,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1409,Joey Votto,Cin,1B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1010,Jameson Taillon,Pit,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1460,Eugenio Suarez,Cin,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1007,Patrick Corbin,Was,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1470,Justin Turner,LAD,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1525,Corey Seager,LAD,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1457,Matt Carpenter,StL,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1014,Mike Foltynewicz,Atl,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1036,Jack Flaherty,StL,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1004,Zack Greinke,Ari,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1562,Cody Bellinger,LAD,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1476,Josh Donaldson,Atl,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1008,Kyle Hendricks,ChN,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1442,Daniel Murphy,Col,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1558,Rhys Hoskins,Phi,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1355,J.T. Realmuto,Phi,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1564,Lorenzo Cain,Mil,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1561,Michael Conforto,NYN,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1581,Yasiel Puig,Cin,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1567,Starling Marte,Pit,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1047,Stephen Strasburg,Was,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1504,Jean Segura,Phi,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1563,Marcell Ozuna,StL,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1009,German Marquez,Col,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1022,Jake Arrieta,Phi,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1015,Zack Wheeler,NYN,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1557,Andrew McCutchen,Phi,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1049,Madison Bumgarner,SF,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1006,Miles Mikolas,StL,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1058,Carlos(Matias) Martinez(StL),StL,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1462,Travis Shaw,Mil,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1037,Chris Archer,Pit,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1600,David Dahl,Col,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1011,Cole Hamels,ChN,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1464,Max Muncy,LAD,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1054,Robbie Ray,Ari,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1430,Scooter Gennett,Cin,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1411,Jesus Aguilar,Mil,1B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1045,Rich Hill,LAD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1670,A.J. Pollock,LAD,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1565,David Peralta,Ari,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1215,Edwin Diaz,NYN,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1005,Kyle Freeland,Col,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1061,Joe Musgrove,Pit,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1359,Buster Posey,SF,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1026,Luis Castillo,Cin,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1512,Paul DeJong,StL,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1509,Dansby Swanson,Atl,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1441,Robinson Cano,NYN,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1357,Yasmani Grandal,Mil,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1013,Kevin Gausman,Atl,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1354,Willson Contreras,ChN,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1075,Hyun-Jin Ryu,LAD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1559,Ender Inciarte,Atl,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1018,Zack Godley,Ari,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1210,Josh Hader,Mil,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1570,Brandon Nimmo,NYN,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1028,Nick Pivetta,Phi,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1035,Alex Wood,Cin,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1052,Kenta Maeda,LAD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1679,Mike Moustakas,Mil,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1592,Jesse Winker,Cin,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1618,Victor Robles,Was,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1016,Jon Lester,ChN,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1500,Jose Peraza,Cin,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1358,Yadier Molina,StL,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1027,Jose Quintana,ChN,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1048,Joey Lucchesi,SD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1574,Kyle Schwarber,ChN,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1432,Ketel Marte,Ari,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1356,Tucker Barnhart,Cin,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1361,Wilson Ramos,NYN,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1431,Brian Dozier,Was,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1023,Jon Gray,Col,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1426,Cesar Hernandez,Phi,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1029,Sean Newcomb,Atl,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1020,Julio Teheran,Atl,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1097,Yu Darvish,ChN,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1506,Brandon Crawford,SF,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1223,Felipe Vazquez,Pit,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1240,Kirby Yates,SD,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1584,Joc Pederson,LAD,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1410,Josh Bell(Pit),Pit,1B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1060,Dereck Rodriguez,SF,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1258,Corey Knebel,Mil,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1458,Brian Anderson,Mia,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1666,Nick Markakis,Atl,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1571,Corey Dickerson,Pit,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1587,Harrison Bader,StL,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1505,Chris Taylor,LAD,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1218,Raisel Iglesias,Cin,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1281,Sean Doolittle,Was,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1515,Kike(Enrique) Hernandez,LAD,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1472,Wil Myers,SD,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1596,Franmil Reyes,SD,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1568,Odubel Herrera,Phi,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1034,Steven Matz,NYN,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1056,Ross Stripling,LAD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1362,Francisco Cervelli,Pit,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1012,Jhoulys Chacin,Mil,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1025,Trevor Williams,Pit,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1021,Jose Urena,Mia,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1582,Ryan Braun(Mil),Mil,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1583,Hunter Renfroe,SD,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1438,Kolten Wong,StL,2B,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",7,False,True
+1224,David Robertson,Phi,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1068,Seth Lugo,NYN,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1386,Francisco Mejia,SD,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1094,Brandon Woodruff,Mil,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1475,Jake Lamb,Ari,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1100,Corbin Burnes,Mil,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1407,Eric Hosmer,SD,1B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1291,Jose Castillo,SD,SR,"['wBL600', 'wBL601', 'wNL601', 'wNL603']",4,False,True
+1579,Albert Almora,ChN,OF,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1017,Tanner Roark,Cin,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1074,Michael Wacha,StL,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1467,Ian Happ,ChN,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1591,Adam Eaton,Was,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1503,Eduardo Escobar,Ari,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1143,Alex Reyes,StL,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1038,Vince Velasquez,Phi,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1508,Nick Ahmed,Ari,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1487,Nick Senzel,Cin,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1142,Julio Urias,LAD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1078,Freddy Peralta,Mil,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1147,Jimmy Nelson,Mil,P,"['wBL600', 'wBL601', 'wNL600', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1428,Jed Lowrie,NYN,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1463,Evan Longoria,SF,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1368,Austin Hedges,SD,C,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",7,False,True
+1042,Anibal Sanchez,Was,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1429,Starlin Castro,Mia,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1243,A.J. Minter,Atl,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1297,Andrew Miller,StL,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1412,Brandon Belt,SF,1B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1669,Merrill Kelly,Ari,P,"['wBL600', 'wBL601', 'wNL602', 'wNL603', 'wNL605']",5,False,True
+1573,Manuel Margot,SD,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1507,Amed(German) Rosario,NYN,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1024,Derek Holland,SF,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1050,Zach Eflin,Phi,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1032,Chase Anderson,Mil,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1371,Austin Barnes,LAD,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1087,Matt Strahm,SD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1434,Ben Zobrist,ChN,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1259,Will Smith(SF),SF,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1572,Gregory Polanco,Pit,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1252,Seranthony Dominguez,Phi,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1369,Tyler Flowers,Atl,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1433,Ian Kinsler,SD,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1214,Jeremy Jeffress,Mil,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1414,Ryan Zimmerman,Was,1B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1263,Keone Kela,Pit,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1211,Craig Stammen,SD,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1440,Adam Frazier,Pit,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1043,Luke Weaver,Ari,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1445,Jeff McNeil,NYN,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1213,Jordan Hicks,StL,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1575,Matt Kemp,Cin,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1062,Anthony DeSclafani,Cin,P,"['wBL600', 'wNL600', 'wNL601', 'wNL603', 'wNL604']",5,False,True
+1569,Jose Martinez,StL,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1219,Archie Bradley,Ari,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1664,Wilmer Flores,Ari,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1677,Jeremy Hellickson,Was,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1466,Maikel Franco,Phi,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1051,Trevor Richards,Mia,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1019,Tyler Anderson,Col,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1225,Richard Rodriguez,Pit,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1566,Ian Desmond,Col,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1216,Jeurys Familia,NYN,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1363,Kurt Suzuki,Was,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1364,Jorge Alfaro,Mia,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1221,Steve Cishek,ChN,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1585,Scott Schebler,Cin,OF,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",7,False,True
+1613,Lonnie Chisenhall,Pit,OF,"['wBL600', 'wNL601', 'wNL602']",3,False,True
+1360,Yan Gomes,Was,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1347,Trevor Rosenthal,Was,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1289,Mark Melancon,SF,SR,"['wBL600', 'wNL604']",2,False,True
+1247,Pedro Strop,ChN,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1212,Jared Hughes,Cin,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1102,Sandy Alcantara,Mia,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602']",4,False,True
+1511,Johan Camargo,Atl,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1236,David Hernandez,Cin,SR,"['wBL600', 'wNL600', 'wNL602', 'wNL603']",4,False,True
+1083,Zach Davies,Mil,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603']",6,False,True
+1229,Tony Watson,SF,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1031,Andrew Suarez,SF,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603']",5,False,True
+1365,Chris Iannetta,Col,C,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",7,False,True
+72,Nick Tropeano,LAA,P,['wBL600'],1,False,True
+1450,Luis Urias,SD,2B,"['wBL600', 'wNL600', 'wNL602', 'wNL603']",4,False,True
+1106,Touki Toussaint,Atl,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1079,Caleb Smith,Mia,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602']",4,False,True
+1091,Jeff Samardzija,SF,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1599,Steven Souza,Ari,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1239,Jose Alvarez,Phi,SR,"['wBL600', 'wNL603']",2,False,True
+1468,Colin Moran,Pit,3B,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1272,Andrew Chafin,Ari,SR,"['wBL600', 'wNL603']",2,False,True
+1519,Yairo Munoz,StL,SS,"['wBL600', 'wNL600', 'wNL603']",3,False,True
+1233,Reyes Moronta,SF,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",7,False,True
+1548,Fernando Tatis,SD,SS,"['wBL600', 'wBL601', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",7,False,True
+1588,Lewis Brinson,Mia,OF,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1096,Adam Wainwright,StL,P,"['wBL600', 'wBL601', 'wNL600', 'wNL602']",4,False,True
+1521,Greg Garcia,SD,SS,"['wBL600', 'wNL600']",2,False,True
+1190,Logan Allen,SD,P,['wBL600'],1,False,True
+1366,Russell Martin,LAD,C,"['wBL600', 'wNL602', 'wNL604']",3,False,True
+1479,Ryan McMahon,Col,3B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603']",6,False,True
+1245,Dan Winkler,Atl,SR,"['wBL600', 'wNL601', 'wNL603']",3,False,True
+1290,Arodys Vizcaino,Atl,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1066,Robbie Erlin,SD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1053,Mike Montgomery,ChN,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1244,Kyle Crick,Pit,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602']",4,False,True
+1274,Hector Neris,Phi,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603']",5,False,True
+1676,Gio Gonzalez,-,P,"['wBL600', 'wNL600', 'wNL601', 'wNL604']",4,False,True
+1103,Max Fried,Atl,P,"['wBL600', 'wNL600', 'wNL602', 'wNL604']",4,False,True
+1578,Jason Heyward,ChN,OF,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1680,Neil Walker,Mia,2B,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1104,Daniel Poncedeleon,StL,P,['wBL600'],1,False,True
+1232,Wade Davis,Col,SR,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1044,Wei-Yin Chen,Mia,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602']",4,False,True
+1065,Eric Lauer,SD,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1465,Todd Frazier,NYN,3B,['wBL600'],1,False,True
+1517,Hernan Perez,Mil,SS,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1217,T.J. McFarland,Ari,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603']",5,False,True
+1228,Yoshihisa Hirano,Ari,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL604']",5,False,True
+1528,Garrett Hampson,Col,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1607,Steven Duggar,SF,OF,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1674,Justin Wilson,NYN,SR,['wBL600'],1,False,True
+1510,Miguel Rojas,Mia,SS,"['wBL600', 'wNL601', 'wNL603']",3,False,True
+1422,Pete Alonso,NYN,1B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1267,John Brebbia,StL,SR,"['wBL600', 'wNL602', 'wNL603']",3,False,True
+1437,Daniel Descalso,ChN,2B,"['wBL600', 'wNL600', 'wNL602']",3,False,True
+1063,John Gant,StL,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1222,Sam Dyson,SF,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603']",5,False,True
+1242,Shane Carle,Atl,SR,['wBL600'],1,False,True
+1109,Mike Soroka,Atl,P,"['wBL600', 'wBL601', 'wNL601', 'wNL602', 'wNL603']",5,False,True
+1439,Joe Panik,SF,2B,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603']",6,False,True
+1076,Michael Lorenzen,Cin,P,"['wBL600', 'wNL600', 'wNL604']",3,False,True
+1520,Charlie Culberson,Atl,SS,"['wBL600', 'wNL604']",2,False,True
+1304,Brandon Morrow,ChN,SR,"['wBL600', 'wNL600', 'wNL604']",3,False,True
+1227,Seung-Hwan Oh,Col,SR,"['wBL600', 'wNL600', 'wNL602', 'wNL603']",4,False,True
+299,Tyler Olson,Cle,SR,['wBL600'],1,False,True
+1516,Orlando Arcia,Mil,SS,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL603']",5,False,True
+1188,Chris Paddack,SD,P,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",8,False,True
+1309,Pat Neshek,Phi,SR,"['wBL600', 'wNL601', 'wNL602']",3,False,True
+1254,Pedro Baez,LAD,SR,"['wBL600', 'wNL601', 'wNL602', 'wNL603']",4,False,True
+1055,Dan Straily,Mia,P,"['wBL600', 'wNL601', 'wNL604']",3,False,True
+1090,Caleb Ferguson,LAD,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602']",4,False,True
+1040,Chris Stratton,SF,P,['wBL600'],1,False,True
+1072,Jordan Lyles,Pit,P,"['wBL600', 'wNL600', 'wNL601', 'wNL604']",4,False,True
+1691,Derek Dietrich,Cin,OF,"['wBL600', 'wNL604']",2,False,True
+1234,Drew Steckenrider,Mia,SR,"['wBL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",5,False,True
+1389,Carson Kelly,Ari,C,"['wBL600', 'wNL602', 'wNL603']",3,False,True
+1238,Jesse Biddle,Atl,SR,"['wBL600', 'wNL600', 'wNL601']",3,False,True
+1518,JT Riddle,Mia,SS,['wBL600'],1,False,True
+1071,Antonio Senzatela,Col,P,"['wBL600', 'wNL600', 'wNL603']",3,False,True
+1609,Tyler O'Neill,StL,OF,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1264,Carl Edwards,ChN,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",6,False,True
+1374,Brian McCann,Atl,C,"['wBL600', 'wNL600', 'wNL601', 'wNL604']",4,False,True
+1370,Elias Diaz,Pit,C,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604']",7,False,True
+1471,Jedd Gyorko,StL,3B,"['wBL600', 'wNL601', 'wNL602', 'wNL603']",4,False,True
+1667,Drew Pomeranz,SF,P,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603']",5,False,True
+1794,Yangervis Solarte,SF,2B,"['wBL600', 'wNL601', 'wNL602']",3,False,True
+1226,Alex Claudio,Mil,SR,"['wBL600', 'wNL603']",2,False,True
+1593,Dexter Fowler,StL,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL603', 'wNL604']",5,False,True
+1367,Manny Pina,Mil,C,"['wBL600', 'wNL600', 'wNL601', 'wNL603', 'wNL604']",5,False,True
+1231,Joe Kelly,LAD,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL602']",4,False,True
+1413,Matt Adams,Was,1B,"['wBL600', 'wNL600', 'wNL601', 'wNL602', 'wNL603', 'wNL604', 'wNL605']",7,False,True
+1590,MichaelA. Taylor(Was),Was,OF,"['wBL600', 'wNL600', 'wNL601', 'wNL603']",4,False,True
+1250,Scott Oberg,Col,SR,"['wBL600', 'wNL600', 'wNL602', 'wNL603']",4,False,True
+1781,Adeiny Hechavarria,NYN,SS,"['wBL600', 'wNL603']",2,False,True
+350,Kevin Plawecki,Cle,C,['wBL600'],1,False,True
+1706,Curtis Granderson,Mia,OF,"['wBL600', 'wBL601', 'wNL600', 'wNL601', 'wNL603', 'wNL604', 'wNL605']",7,False,True
+1230,Scott Alexander,LAD,SR,"['wBL600', 'wNL600', 'wNL601', 'wNL603']",4,False,True
+556,Jacoby Jones,Det,OF,['wBL600'],1,False,True
+1708,Carlos Gonzalez,-,OF,"['wBL600', 'wNL601']",2,False,True
+625,Oscar Mercado,Cle,OF,['wBL600'],1,False,True
+1608,Roman Quinn,Phi,OF,['wBL600'],1,False,True
+1800,Nick Vincent,SF,P,['wBL600'],1,False,True
+1483,JungHo Kang,Pit,3B,"['wBL600', 'wBL601', 'wNL603']",3,False,True
+228,Brent Honeywell,TB,P,['wBL601'],1,True,True
+615,Yusniel Diaz,Bal,OF,['wBL601'],1,True,True
+1138,Kyle Wright,Atl,P,['wBL601'],1,True,True
+1598,Eric Thames,Mil,OF,"['wBL601', 'wNL600', 'wNL601', 'wNL604']",4,True,True
+1385,Aramis Garcia,SF,C,['wNL600'],1,True,False
+1686,Matt Wieters,StL,C,"['wNL600', 'wNL602', 'wNL603']",3,True,False
+1118,Joe Ross,Was,P,['wNL600'],1,True,False
+1313,Tony Cingrani,LAD,SR,['wNL600'],1,True,False
+1391,Travis D'Arnaud,NYN,C,"['wNL600', 'wNL601']",2,True,False
+1615,Alex Verdugo,LAD,OF,"['wNL600', 'wNL602', 'wNL603', 'wNL605']",4,True,False
+1417,Peter O'Brien,Mia,1B,"['wNL600', 'wNL602', 'wNL603']",3,True,False
+1522,Erik Gonzalez,Pit,SS,['wNL600'],1,True,False
+1088,Pablo Lopez,Mia,P,"['wNL600', 'wNL602']",2,True,False
+1069,Jason Vargas,NYN,P,"['wNL600', 'wNL601', 'wNL602']",3,True,False
+1237,Dylan Floro,LAD,SR,"['wNL600', 'wNL601']",2,True,False
+1692,Gerardo Parra,SF,OF,"['wNL600', 'wNL601', 'wNL602', 'wNL604']",4,True,False
+1612,Mac Williamson,SF,OF,['wNL600'],1,True,False
+1779,Sergio Romo,Mia,SR,"['wNL600', 'wNL603']",2,True,False
+1604,Franchy Cordero,SD,OF,"['wNL600', 'wNL602', 'wNL603']",3,True,False
+1064,Tyler Mahle,Cin,P,"['wNL600', 'wNL602', 'wNL604']",3,True,False
+1704,Greg Holland,Ari,SR,"['wNL601', 'wNL603', 'wNL604']",3,True,False
+1473,David Freese,LAD,3B,"['wNL601', 'wNL602']",2,True,False
+1248,Matt Grace,Was,SR,['wNL601'],1,True,False
+1377,Tony Wolters,Col,C,"['wNL601', 'wNL603']",2,True,False
+1380,Curt Casali,Cin,C,['wNL601'],1,True,False
+1444,Alen Hanson,SF,2B,"['wNL601', 'wNL604']",2,True,False
+1209,Robert Gsellman,NYN,SR,"['wNL601', 'wNL602']",2,True,False
+1586,Adam Duvall,Atl,OF,['wNL601'],1,True,False
+1514,Addison Russell,ChN,SS,"['wNL601', 'wNL602', 'wNL603', 'wNL604']",4,True,False
+1283,Edubray Ramos,Phi,SR,['wNL601'],1,True,False
+5005,Adam Warren,SD,SR,['wNL601'],1,True,False
+1073,Matt Koch,Ari,P,['wNL601'],1,True,False
+1474,Pablo Sandoval,SF,3B,['wNL601'],1,True,False
+1311,Ray Black,SF,SR,['wNL602'],1,True,False
+1241,Amir Garrett,Cin,SR,['wNL602'],1,True,False
+1285,Josh Fields,LAD,SR,['wNL602'],1,True,False
+1513,Scott Kingery,Phi,SS,"['wNL602', 'wNL603']",2,True,False
+1788,Mark Reynolds,Col,1B,['wNL602'],1,True,False
+1307,Dakota Hudson,StL,SR,['wNL602'],1,True,False
+1112,Luiz Gohara,Atl,P,['wNL602'],1,True,False
+1249,Victor Arano,Phi,SR,['wNL602'],1,True,False
+1611,Austin Dean,Mia,OF,"['wNL602', 'wNL604']",2,True,False
+1436,Wilmer Difo,Was,2B,['wNL602'],1,True,False
+1619,Juan Lagares,NYN,OF,['wNL603'],1,True,False
+1383,Tommy Murphy,Col,C,['wNL603'],1,True,False
+1080,Nick Kingham,Pit,P,['wNL603'],1,True,False
+1551,Brendan Rodgers,Col,SS,['wNL603'],1,True,False
+1379,Victor Caratini,ChN,C,['wNL603'],1,True,False
+1614,Keon Broxton,NYN,OF,['wNL603'],1,True,False
+5035,Cameron Maybin,SF,OF,['wNL603'],1,True,False
+1057,Chad Bettis,Col,P,['wNL604'],1,True,False
